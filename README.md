@@ -1,16 +1,38 @@
-## Hi there 👋
+## 🧑‍💻 Kevyn Gabriel 
+
+**`Desenvolvedor de Software`**
+
+Me chamo Kevyn Gabriel, tenho 20 anos. Atualmente, estou cursando Engenharia de Software - 4° Semestre. Sou apaixonado por tecnologia e video-game. Adoro desenvolver projetos e resolver desafios
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kevyn-gabriel-4980052a5)
+---
+
+### 🤖 Linguagens e Tecnologias
+
+ <div style ="display: inline-block">
+    <img align="center" alt="FLUTTER" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />   
+</div><br/>
+
+<br/>
+<br/>
 
 <!--
-**kevyn-py/kevyn-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Estatísticas
 
-Here are some ideas to get you started:
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
