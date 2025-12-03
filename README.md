@@ -4,7 +4,7 @@
 
 Me chamo Kevyn Gabriel, tenho 20 anos. Atualmente, estou cursando Engenharia de Software - 4° Semestre. Sou apaixonado por tecnologia e video-game. Adoro desenvolver projetos e resolver desafios
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kevyn-gabriel-4980052a5)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevyn-gabriel-4980052a5/)
 ---
 
 ### 🤖 Linguagens e Tecnologias
