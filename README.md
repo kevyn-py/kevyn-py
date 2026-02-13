@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Kevyn Gabriel, tenho 20 anos. Atualmente, estou cursando Engenharia de Software (4° Semestre). Sou apaixonado por tecnologia e Vídeo-Game. Adoro desenvolver projetos e resolver desafios
+Me chamo Kevyn Gabriel, tenho 20 anos. Atualmente, estou cursando Engenharia de Software (5° Semestre). Sou apaixonado por tecnologia e Vídeo-Game. Adoro desenvolver projetos e resolver desafios.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevyn-gabriel-4980052a5/)
 
@@ -18,7 +18,7 @@ Me chamo Kevyn Gabriel, tenho 20 anos. Atualmente, estou cursando Engenharia de 
 <br/>
 <br/>
 
-<!--
+
 ### 📊 Estatísticas
 
 <p>
