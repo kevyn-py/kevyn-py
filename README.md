@@ -14,4 +14,5 @@ Me chamo Kevyn Gabriel, tenho 20 anos. Atualmente, estou cursando Engenharia de 
  <div style ="display: inline-block">
   <img align="center" alt="Html" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="Css" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="Python" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
  </div>
