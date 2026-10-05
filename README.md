@@ -1,18 +1,87 @@
-## 🧑‍💻 Kevyn Gabriel 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Seja+Bem+-+Vindo+!+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-**`Desenvolvedor de Software`**
+#
 
-Me chamo Kevyn Gabriel, tenho 20 anos. Atualmente, estou cursando Engenharia de Software (5° Semestre). Sou apaixonado por tecnologia e Vídeo-Game. Adoro desenvolver projetos e resolver desafios.
+Me chamo Kevyn Gabriel, tenho 21 anos e moro em São Paulo- SP. Atualmente curso Engenharia de Software na UMC. Sou apaixonado por tecnologia, curioso sobre o potencial da tecnologia em transformar realidades e elevar a qualidade de vida das pessoas através de soluções inteligentes.
+ 
+#
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevyn-gabriel-4980052a5/)
+<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
----
+<h3 align="left">Entra contato comigo!</h3>
 
-### 🤖 Linguagens e Tecnologias
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:kevynn.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/devkevyn-gabriel/)
 
- <div style ="display: inline-block">
-  <img align="center" alt="Html" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="Css" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="Python" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
- </div>
+
+<h3 align="left">My Stack ~</h3>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img
+    align="left"
+    alt="MySQl"
+    title="MySQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+<br/>
+<br/>
+
+<h3 align="left">GitHub Stats</h3>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=kevyn-py&show_icons=true&locale=pt-br&theme=dark"
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=kevyn-py&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  />
+
+
+
